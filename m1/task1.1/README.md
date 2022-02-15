@@ -1,4 +1,4 @@
-#description of the results of working with Git.
+#Description of the results of working with Git.
 - Installing and configuring Git;
 - Creating git repository: local and remout;
 - Worked with git commands: git init, git clone, git status, git add, git commit, git checkout, git branch, git merge, git log, git reflog, git push;
