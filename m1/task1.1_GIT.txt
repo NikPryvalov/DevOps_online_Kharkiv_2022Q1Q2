@@ -1,0 +1,17 @@
+$ git reflog
+
+94bd0e3 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+2e4c993 HEAD@{1}: checkout: moving from develop to main
+94bd0e3 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): got new changes
+41c77f8 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+7d510ef HEAD@{4}: checkout: moving from styles to develop
+a4e2e9b (origin/styles, styles) HEAD@{5}: commit: Changed file index.html. added css
+c17554c HEAD@{6}: commit: Added styles folder with styles source inside it
+7d510ef HEAD@{7}: checkout: moving from develop to styles
+7d510ef HEAD@{8}: checkout: moving from images to develop
+41c77f8 (origin/images, images) HEAD@{9}: commit: Changed file index.html. Added images source inside it
+4dbcb91 HEAD@{10}: commit: Added folder images with some images inside it
+7d510ef HEAD@{11}: checkout: moving from develop to images
+7d510ef HEAD@{12}: commit: added empty file index.html
+2e4c993 HEAD@{13}: checkout: moving from main to develop
+2e4c993 HEAD@{14}: clone: from https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2.git
