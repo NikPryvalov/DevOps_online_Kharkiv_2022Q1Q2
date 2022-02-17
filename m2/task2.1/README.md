@@ -29,5 +29,7 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 ## PART 2. WORK WITH VIRTUALBOX
 ### 1.First run VirtualBox and Virtual Machine (VM).
 #### - 1.1-1.4: 
+![Снимок экрана (5)](https://user-images.githubusercontent.com/53264992/154542040-edee4e42-b62f-4fe4-a108-d8e8637e0e25.png)
+#### - 1.5:
 
 
