@@ -1,5 +1,5 @@
 ## PART 1. HYPERVISORS
-#### Most popular hypervisors for infrastructure virtualization:<br/>
+#### Most popular hypervisors for infrastructure virtualization:
 - VMware vSphere Hypervisor;
 - Microsoft Hyper-V;
 - Citrix XenServer;
@@ -9,4 +9,4 @@
 - Parallels;
 - Qemu.
 
-#### The main differences of the most popular hypervisors:<br/>
+#### The main differences of the most popular hypervisors:
