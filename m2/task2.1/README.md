@@ -25,3 +25,5 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 - An operating system installed on the hardware (Windows, Linux, macOS).
 - A type 2 hypervisor software within that operating system.
 - The actual instances of guest virtual machines.
+
+## PART 2. WORK WITH VIRTUALBOX
