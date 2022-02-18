@@ -30,6 +30,7 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 ### 1.First run VirtualBox and Virtual Machine (VM).
 #### - 1.1-1.4: 
 ![Снимок экрана (5)](https://user-images.githubusercontent.com/53264992/154542040-edee4e42-b62f-4fe4-a108-d8e8637e0e25.png)
+![Screenshot from 2022-02-18 12-00-59](https://user-images.githubusercontent.com/53264992/154661685-5b363d84-2afa-49c1-bddc-baf021aad838.png)
 
 #### - 1.5:
 ![Снимок экрана (8)](https://user-images.githubusercontent.com/53264992/154558339-4aa92891-d571-40b8-8e18-78e1fa31db14.png)
