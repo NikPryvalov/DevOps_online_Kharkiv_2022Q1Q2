@@ -41,5 +41,11 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 #### - 1.7:
 ![Screenshot from 2022-02-18 12-15-02](https://user-images.githubusercontent.com/53264992/154663100-d6fd9302-160b-4421-ac4a-23527106f2d4.png)
 
+#### - 1.8:
+![Screenshot from 2022-02-18 13-50-25](https://user-images.githubusercontent.com/53264992/154678104-114b5e5a-7ee3-428f-8b45-bb21cfeb2b14.png)
+
+
+
+
 
 
