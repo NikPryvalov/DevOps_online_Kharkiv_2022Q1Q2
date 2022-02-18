@@ -95,8 +95,20 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 
 
 ### 3.Work with CLI through VBoxManage.
-#### 3.1:
+#### 3.1-3.2:
 ![Screenshot from 2022-02-18 16-27-07](https://user-images.githubusercontent.com/53264992/154701097-a7803cc6-d9e5-4a5c-9fc2-c867d1cbc8e0.png)
+![Screenshot from 2022-02-18 16-36-20](https://user-images.githubusercontent.com/53264992/154702887-8a942f95-b36e-4852-8a9e-4b48f35ea8dc.png)
+![Screenshot from 2022-02-18 16-39-37](https://user-images.githubusercontent.com/53264992/154703578-b5dcc823-622b-43ca-985e-ad46a8a8bafc.png)
+![Screenshot from 2022-02-18 16-39-50](https://user-images.githubusercontent.com/53264992/154703594-4eb5b335-27df-4d5d-9df9-dd8bf8483a5f.png)
+![Screenshot from 2022-02-18 16-43-36](https://user-images.githubusercontent.com/53264992/154704307-16c38d17-5636-4a1e-ad1b-020a3d239205.png)
+![Screenshot from 2022-02-18 16-44-07](https://user-images.githubusercontent.com/53264992/154704412-6414cbb4-10d9-4b51-9c4e-e6a1ae849113.png)
+![Screenshot from 2022-02-18 16-46-46](https://user-images.githubusercontent.com/53264992/154705026-6ddd1db8-bb5d-4e0a-a772-2426c2f71fd0.png)
+![Screenshot from 2022-02-18 16-47-09](https://user-images.githubusercontent.com/53264992/154705038-94f44329-ceb9-41fb-8678-0be27ca61e37.png)
+![Screenshot from 2022-02-18 16-53-26](https://user-images.githubusercontent.com/53264992/154706152-9784b3aa-19b4-4806-a34b-9130b3d592e6.png)
+![Screenshot from 2022-02-18 16-54-08](https://user-images.githubusercontent.com/53264992/154706270-e24be4c3-8015-4ad1-8236-84f10fe740e2.png)
+![Screenshot from 2022-02-18 16-57-06](https://user-images.githubusercontent.com/53264992/154706805-5c10baa7-83df-4a51-b276-75c78d65ca79.png)
+
+### PART 3. WORK WITH VAGRANT
 
 
 
