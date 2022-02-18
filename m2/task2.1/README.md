@@ -96,8 +96,7 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 
 ### 3.Work with CLI through VBoxManage.
 #### 3.1:
-
-
+![Screenshot from 2022-02-18 16-20-33](https://user-images.githubusercontent.com/53264992/154700861-77e20355-4192-49ab-b5d9-828dabd076c0.png)
 
 
 
