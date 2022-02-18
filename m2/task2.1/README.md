@@ -94,3 +94,10 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 
 
 
+### 3.Work with CLI through VBoxManage.
+#### 3.1:
+
+
+
+
+
