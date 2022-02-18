@@ -109,6 +109,7 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 ![Screenshot from 2022-02-18 16-57-06](https://user-images.githubusercontent.com/53264992/154706805-5c10baa7-83df-4a51-b276-75c78d65ca79.png)
 
 ### PART 3. WORK WITH VAGRANT
-
-
+#### 1:
+![Screenshot from 2022-02-18 17-19-37](https://user-images.githubusercontent.com/53264992/154710683-4a45aef7-5329-42d7-8978-b3d868498c71.png)
+#### 2:
 
