@@ -63,5 +63,34 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 ![Screenshot from 2022-02-18 14-14-24](https://user-images.githubusercontent.com/53264992/154681295-354082f6-6047-405c-88a5-559ef28061dd.png)
 ![Screenshot from 2022-02-18 14-14-33](https://user-images.githubusercontent.com/53264992/154681304-d28bf982-9eb0-4431-bbc9-57a194455c89.png)
 
+#### 2.2:
+![Screenshot from 2022-02-18 14-45-31](https://user-images.githubusercontent.com/53264992/154686815-a62a1039-4ba4-46f1-8239-12c50584bfe7.png)
+ 
+#### 2.3:
+
+#### 2.4:
+![Screenshot from 2022-02-18 15-52-03](https://user-images.githubusercontent.com/53264992/154695372-d5083c1b-5bd6-4946-9a16-87681cf4cdff.png)
+![Screenshot from 2022-02-18 15-52-17](https://user-images.githubusercontent.com/53264992/154695382-612dee48-43cc-4d9c-9732-3264c0e9c015.png)
+
+
+
+![Screenshot from 2022-02-18 15-52-03](https://user-images.githubusercontent.com/53264992/154695420-4ab87ed0-cef9-41e7-8de2-eaa1a1c6a60b.png)
+![Screenshot from 2022-02-18 15-52-28](https://user-images.githubusercontent.com/53264992/154695430-020059de-24c7-479b-9bbd-c74ee13f29ab.png)
+
+
+
+![Screenshot from 2022-02-18 15-52-03](https://user-images.githubusercontent.com/53264992/154695453-1c41e3e2-1bd2-4ee3-a155-7e5a5f619bfa.png)
+![Screenshot from 2022-02-18 15-52-36](https://user-images.githubusercontent.com/53264992/154695485-fa4b0081-2164-4c13-976c-e00af1702afd.png)
+
+
+
+![Screenshot from 2022-02-18 15-52-03](https://user-images.githubusercontent.com/53264992/154695502-b7aa9a65-cbc1-4c7e-8289-dcc68235c752.png)
+![Screenshot from 2022-02-18 15-52-47](https://user-images.githubusercontent.com/53264992/154695517-47512211-f868-43d1-907f-d0bdb04f06b1.png)
+
+
+
+![Screenshot from 2022-02-18 15-52-03](https://user-images.githubusercontent.com/53264992/154695532-699879f5-aa32-4b56-9369-ae8070e7d387.png)
+![Screenshot from 2022-02-18 15-52-56](https://user-images.githubusercontent.com/53264992/154695563-8e98a521-af75-43ac-8a36-64ee6f77cde4.png)
+
 
 
