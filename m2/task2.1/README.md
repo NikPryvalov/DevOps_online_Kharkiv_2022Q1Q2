@@ -49,6 +49,11 @@ This is why we call type 2 hypervisors – hosted hypervisors. As opposed to typ
 ![Screenshot from 2022-02-18 13-59-02](https://user-images.githubusercontent.com/53264992/154679717-657feb17-0a95-45a9-80e8-b8af4bd75cf9.png)
 ![Screenshot from 2022-02-18 13-59-19](https://user-images.githubusercontent.com/53264992/154679733-f88fb626-ca60-4369-827e-3f2bd402fcba.png)
 ![Screenshot from 2022-02-18 14-03-01](https://user-images.githubusercontent.com/53264992/154679741-51453b04-1728-4930-9f6c-07af26535ab7.png)
+![Screenshot from 2022-02-18 14-06-04](https://user-images.githubusercontent.com/53264992/154680586-5622246a-42de-40f0-a5d1-95f18b628dc0.png)
+![Screenshot from 2022-02-18 14-06-16](https://user-images.githubusercontent.com/53264992/154680594-873d72f4-9a07-4c88-bde2-27d438a897de.png)
+![Screenshot from 2022-02-18 14-07-11](https://user-images.githubusercontent.com/53264992/154680608-979a84a6-3268-4034-b1cf-d8ae0c9ad8e1.png)
+![Screenshot from 2022-02-18 14-07-34](https://user-images.githubusercontent.com/53264992/154680621-2eca8f4d-f70c-4782-88b3-9e429fbb4422.png)
 
-
+### 2.Configuration of virtual machines
+#### 2.1:
 
