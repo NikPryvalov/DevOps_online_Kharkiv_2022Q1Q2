@@ -4,4 +4,7 @@
 ![Снимок экрана (13)](https://user-images.githubusercontent.com/53264992/154839033-b0203d0d-0c18-4090-912e-0659caf991c2.png)
 
 ### 5:
+![Снимок экрана (16)](https://user-images.githubusercontent.com/53264992/154839702-3453ba33-ff67-45ac-ab9a-9d957fa092d0.png)
+
+### 6:
 
