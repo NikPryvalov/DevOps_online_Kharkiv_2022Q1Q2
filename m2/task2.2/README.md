@@ -7,4 +7,5 @@
 ![Снимок экрана (16)](https://user-images.githubusercontent.com/53264992/154839702-3453ba33-ff67-45ac-ab9a-9d957fa092d0.png)
 
 ### 6:
+![Screenshot (20)](https://user-images.githubusercontent.com/53264992/154853939-f1688799-e429-431e-b199-d8a17bc5efcb.png)
 
