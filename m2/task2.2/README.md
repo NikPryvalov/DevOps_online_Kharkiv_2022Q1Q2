@@ -8,5 +8,9 @@
 
 ### 6:
 ![Screenshot (20)](https://user-images.githubusercontent.com/53264992/154853939-f1688799-e429-431e-b199-d8a17bc5efcb.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/53264992/154854184-e87af28f-9621-46f9-8c16-49cd5242bcac.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/53264992/154856565-c113addf-2db0-4611-b8b8-1d0d4455f067.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/53264992/154856577-3b32c656-385b-4203-8df7-f0640dd2aeb4.png)
+
+### 7:
+
 
