@@ -13,5 +13,10 @@
 ### 9: 
 Creating  own  domain  and domain  name  for  my  site: ***a-zone.fun***
 
+### 10:
+![Screenshot (33)](https://user-images.githubusercontent.com/53264992/154931601-7fd0771a-365d-4ada-bd61-44753ce15e9e.png)
+
+
+
 
 
