@@ -35,6 +35,10 @@ Creating  own  domain  and domain  name  for  my  site: ***a-zone.fun***
 ![3](https://user-images.githubusercontent.com/53264992/154949629-b376a093-9be6-4c74-bc07-0db3c219cc4d.png)
 
 ### 12:
+![Screenshot (60)](https://user-images.githubusercontent.com/53264992/154983693-15a56a17-f717-419e-a765-7e2d04fe34e0.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/53264992/154983973-bef8fc58-5122-4e82-808c-b86d7ca62e48.png)
+
+### 13:
 
 
 
