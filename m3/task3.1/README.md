@@ -7,4 +7,6 @@
 ## Settings for Data Center network.
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.1/screen/screen3.png)
 
-## Settings for Data Home Office.
+## Settings for Home Office network.
+![screen4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.1/screen/screen4.png)
+
