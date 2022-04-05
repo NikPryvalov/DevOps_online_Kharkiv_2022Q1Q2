@@ -15,3 +15,4 @@
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen7.png)
 - As we can see Ping and Traceroute do not working, because of not configured trunk port and because of devices used defoult VLAN1.
 ### Changed port FE0/1 state to trunk on a switch Data Center, maked virtual interfaces on router ISP3, set new ip addresses, corresponding servers subnets and addresses.
+![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen8.png)
