@@ -17,3 +17,14 @@
 ### Changed port FE0/1 state to trunk on a switch Data Center, maked virtual interfaces on router ISP3, set new ip addresses, corresponding servers subnets and addresses.
 ![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen8.png)
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen9.png)
+- next step will be work with mode CLI:
+```interface GigabitEthernet0/0.2
+encapsulation dot1Q 2
+ip address 2.20.89.1 255.255.255.192
+interface GigabitEthernet0/0.3
+encapsulation dot1Q 3
+ip address 2.20.89.65 255.255.255.192
+interface GigabitEthernet0/0.4
+encapsulation dot1Q 4
+ip address 2.20.89.129 255.255.255.192
+```
