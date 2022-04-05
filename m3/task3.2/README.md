@@ -18,7 +18,7 @@
 ![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen8.png)
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen9.png)
 - next step will be work with mode CLI:
-```
+
 - [x] interface GigabitEthernet0/0.2
 - [x] encapsulation dot1Q 2
 - [x] ip address 2.20.89.1 255.255.255.192
@@ -28,4 +28,4 @@
 - [x] interface GigabitEthernet0/0.4
 - [x] encapsulation dot1Q 4
 - [x] ip address 2.20.89.129 255.255.255.192
-```
+
