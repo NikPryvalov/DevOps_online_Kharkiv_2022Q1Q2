@@ -29,6 +29,8 @@
 - [x] encapsulation dot1Q 4
 - [x] ip address 2.20.89.129 255.255.255.192
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen10.png)
-### Setting Default Gateway for WebServer1, WebServer2 та DNSServer:
+### Setting Default Gateway for WebServer1, WebServer2 avd DNSServer:
 ![screen11](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen11.png)
+### Cheked ping comand for our servers now, when VLAN is configured correctly.
+![screen12](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.2/screen/screen12.png)
 
