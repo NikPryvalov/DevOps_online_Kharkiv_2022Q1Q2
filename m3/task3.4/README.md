@@ -7,3 +7,6 @@
 ### Configuring a DNS service on DNS server.
 ![screen4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen4.png)
 ![screen5](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen5.png)
+### Setting up PortForwarding on HomeRouter. (additional task)
+![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen6.png)
+
