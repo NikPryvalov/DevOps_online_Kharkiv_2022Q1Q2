@@ -12,4 +12,5 @@
   - [task3.4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m3/task3.4)/
 ### [m4-Linux Essentials](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m4)/
  - [task4.1](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m4/task4.1)/
-
+ - [task4.2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m4/task4.2)/
+ - [task4.3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m4/task4.3)/
