@@ -10,3 +10,5 @@
 ### Setting up PortForwarding on HomeRouter. (additional task)
 ![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen6.png)
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen7.png)
+### Configuring Port Forwarding on Home Router
+![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen8.png)
