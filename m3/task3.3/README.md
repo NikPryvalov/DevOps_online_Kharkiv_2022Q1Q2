@@ -4,3 +4,5 @@
 ![screen2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.3/screen/screen2.png)
 ### Setting up HomeRouter -- added default gateway on Router ISP2
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.3/screen/screen3.png)
+### Checked connection from Client 1 to Web Server 2.
+![screen4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.3/screen/screen4.png)
