@@ -12,3 +12,7 @@
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen7.png)
 ### Configuring Port Forwarding on Home Router
 ![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen8.png)
+### Added DNS record for domain3.com (Home Server) on DNS Server -- checked the work.
+![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen9.png)
+### Checking how its worked from Client 1 --  Desktop/WebBrowser -- entere domain3.com 
+![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m3/task3.4/screen/screen10.png)
