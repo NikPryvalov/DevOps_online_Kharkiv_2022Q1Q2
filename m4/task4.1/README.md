@@ -4,5 +4,5 @@
 ![screen1](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen1.png)
 #### 2) Used the passwd command to change the password.
 ![screen2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen2.png)
- ** basic parameters of the command: **
+ * **basic parameters of the command:**
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen3.png)
