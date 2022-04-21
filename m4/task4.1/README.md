@@ -13,3 +13,5 @@
 - /etc/pam.d/passwd - PAM configuration for passwd.
 ```
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen3.png)
+#### 3)For determine the users registered in the system, as well as what commands they execute -- will be used next commands:  
+![screen4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen4.png)
