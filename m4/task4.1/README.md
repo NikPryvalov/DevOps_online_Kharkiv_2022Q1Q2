@@ -23,7 +23,6 @@
 - last - displays a list of all users logged in (and out) the system;
 - cat /etc/passwd - displays user accounts information;
 - sed 's/:.*//' /etc/passwd - displays only usernames list who logged in the system.
-
 ```
-> let`s go practic:
+##### let`s go practic:
 ![screen4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen4.png)
