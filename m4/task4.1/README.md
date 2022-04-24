@@ -32,5 +32,13 @@
 chfn - change personal information displayed by 'finger' comand;
 ```
 ![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen6.png)
-#### 5) Linux help system:
+#### 5) Linux help system. We used "man" command for get help:
+```
+For examples, used command 'passwd' with some options 
+- man passwd
+- man -aS passwd - This option can be used only with -S and causes show status for all users.
+- man -S passwd - Display account status information.
+```
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen7.png)
+![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen8.png)
+![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen9.png)
