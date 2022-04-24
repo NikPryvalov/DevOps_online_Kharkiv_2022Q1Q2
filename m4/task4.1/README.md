@@ -29,8 +29,8 @@
 ![screen5](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen5.png)
 #### 4) Let's start change personal information about yourself, using for that next comands:
 ```
-chfn - change personal information displayed by finger;
-chsh - change the commands interpratator;
-passwd - change the user's password.
+chfn - change personal information displayed by 'finger' comand;
 ```
 ![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen6.png)
+#### 5) Linux help system:
+![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen7.png)
