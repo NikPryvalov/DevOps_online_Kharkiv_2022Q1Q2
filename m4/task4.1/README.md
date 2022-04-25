@@ -50,4 +50,7 @@ For examples, used command 'passwd' with some options
 #### 7) Last  logon  time  for  all  users. Used the documentation for the finger command.
 ![screen14](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen14.png)
 ![screen15](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen15.png)
-#### 8) 
+#### 8) List the contents of the home directory using the 'ls' command.
+![screen16](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen16.png)
+### Part2
+1) 
