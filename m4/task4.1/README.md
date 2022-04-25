@@ -53,4 +53,6 @@ For examples, used command 'passwd' with some options
 #### 8) List the contents of the home directory using the 'ls' command.
 ![screen16](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen16.png)
 ### Part2
-1) 
+#### 1) The 'tree' command.
+![screen17](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen17.png)
+#### 2) 
