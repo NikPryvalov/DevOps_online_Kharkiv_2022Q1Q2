@@ -36,8 +36,8 @@ chfn - change personal information displayed by 'finger' comand;
 ```
 For examples, used command 'passwd' with some options 
 - man passwd
-- man -aS passwd - This option can be used only with -S and causes show status for all users.
-- man -S passwd - Display account status information.
+- passwd -aS - This option can be used only with -S and causes show status for all users.
+- passwd -S - Display account status information.
 ```
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen7.png)
 ![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen8.png)
