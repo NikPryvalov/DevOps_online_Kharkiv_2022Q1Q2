@@ -57,4 +57,7 @@ For examples, used command 'passwd' with some options
 ![screen17](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen17.png)
 #### 2) For determining file type we use following command  '*file*'.
 ![screen18](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen18.png)
-#### 3) 
+#### 3) Navigating the file system
+![screen19](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen19.png)
+#### 4) 
+
