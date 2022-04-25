@@ -55,4 +55,6 @@ For examples, used command 'passwd' with some options
 ### Part2
 #### 1) The 'tree' command.
 ![screen17](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen17.png)
-#### 2) 
+#### 2) For determining file type we use following command  '*file*'.
+![screen18](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen18.png)
+#### 3) 
