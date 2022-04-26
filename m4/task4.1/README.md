@@ -59,5 +59,10 @@ For examples, used command 'passwd' with some options
 ![screen18](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen18.png)
 #### 3) Navigating the file system
 ![screen19](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen19.png)
-#### 4) 
-
+#### 4) The 'ls' command. Using different keys -- the -l and -a
+```
+- ls -a will list all files including hidden files (files with names beginning with a dot).
+- ls -l gives a long listing of all files.
+```
+![screen20](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen20.png)
+#### 5) 
