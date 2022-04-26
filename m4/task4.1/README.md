@@ -65,4 +65,6 @@ For examples, used command 'passwd' with some options
 - ls -l gives a long listing of all files.
 ```
 ![screen20](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen20.png)
-#### 5) 
+#### 5) For performe the  sequence of operations in this task used next commands:
+![screen21](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen21.png)
+
