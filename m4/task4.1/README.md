@@ -70,4 +70,12 @@ For examples, used command 'passwd' with some options
 #### 6) For performe the  sequence of operations in this task used next commands:
 ![screen22](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen22.png)
 ![screen23](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen23.png)
-#### 7)
+```
+A hard link is a file that points to the same underlying inode, as another file. In case we delete one file, it removes one link to the underlying inode. 
+* command: 'ln file hardlink'
+A soft link, is a special kind of file that points to another file. Unlike a hard link, a symbolic link does not contain the data in the target file. It simply points to another entry somewhere in the file system.
+* command: 'ln -s file1 symlink1'
+So, Hard link contains data in the target file, while soft link doesn’t contain the data and also, when we delete a target file, symbolic links to that file become unusable, whereas hard links preserve the contents of the file.
+```
+#### 7) Using "locate" utility for find all files that contain the squid and traceroute sequence.
+![screen24](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen24.png)
