@@ -81,4 +81,7 @@ So, Hard link contains data in the target file, while soft link doesn’t contai
 ![screen24](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen24.png)
 #### 8) We determined which partitions are mounted in the system, as well as the types of these partitions.
 ![screen25](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen25.png)
-#### 9) 
+#### 9) So next task and let's count the number lines in our file:
+![screen26](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen26.png)
+#### 10) 
+
