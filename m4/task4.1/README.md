@@ -87,4 +87,7 @@ So, Hard link contains data in the target file, while soft link doesn’t contai
 ![screen27](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen27.png)
 #### 11) Listed all objects in /etc that contain the ss character sequence, we also used 'grep' command.
 ![screen28](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen28.png)
-#### 12) 
+#### 12) Organized a screen-by-screen print of the contents of the /etc directory, used -- 'ls -la /etc | less'
+![screen29](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen29.png)
+#### 13) 
+
