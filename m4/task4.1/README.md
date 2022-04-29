@@ -83,5 +83,6 @@ So, Hard link contains data in the target file, while soft link doesn’t contai
 ![screen25](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen25.png)
 #### 9) So next task and let's count the number lines in our file:
 ![screen26](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen26.png)
-#### 10) 
-
+#### 10) Next task and we will using the 'find' command for find all files in the /etc directory containing the 'host' character sequence.
+![screen27](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen27.png)
+#### 11) 
