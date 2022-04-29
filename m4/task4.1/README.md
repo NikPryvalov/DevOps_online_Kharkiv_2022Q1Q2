@@ -85,4 +85,6 @@ So, Hard link contains data in the target file, while soft link doesn’t contai
 ![screen26](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen26.png)
 #### 10) Next task and we will using the 'find' command for find all files in the /etc directory containing the 'host' character sequence.
 ![screen27](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen27.png)
-#### 11) 
+#### 11) Listed all objects in /etc that contain the ss character sequence, we also used 'grep' command.
+![screen28](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen28.png)
+#### 12) 
