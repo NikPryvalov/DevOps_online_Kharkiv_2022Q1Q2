@@ -108,13 +108,13 @@ File types and their symbols in Linux:
 ```
 ###### Method-1:
 ```
-*ls -la | grep ^-
-*ls -la | grep ^d
-*ls -la | grep ^l
-*ls -la | grep ^c
-*ls -la | grep ^s
-*ls -la | grep ^p
-*ls -la | grep ^b
+- ls -la | grep ^-
+- ls -la | grep ^d
+- ls -la | grep ^l
+- ls -la | grep ^c
+- ls -la | grep ^s
+- ls -la | grep ^p
+- ls -la | grep ^b
 ```
 ![screen31](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen31.png)
 ###### Method-2:
