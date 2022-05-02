@@ -93,7 +93,6 @@ So, Hard link contains data in the target file, while soft link doesn’t contai
 ![screen30](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen30.png)
 #### 14) To Identify File Types in Linux we using next:
 File types and their symbols in Linux:
-###### Method-1:
 ```
 +--------------+------------------------+
 |    Symbol    |      File Types        |
@@ -107,19 +106,26 @@ File types and their symbols in Linux:
 |      b       | Block Device File      |
 +--------------+------------------------+
 ```
-* ls -la | grep ^-
-* ls -la | grep ^d
-* ls -la | grep ^l
-* ls -la | grep ^c
-* ls -la | grep ^s
-* ls -la | grep ^p
-* ls -la | grep ^b
+###### Method-1:
+```
+*ls -la | grep ^-
+*ls -la | grep ^d
+*ls -la | grep ^l
+*ls -la | grep ^c
+*ls -la | grep ^s
+*ls -la | grep ^p
+*ls -la | grep ^b
+```
 ![screen31](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen31.png)
 ###### Method-2:
+```
 The 'file' command allows to determine various file types in Linux.
+```
 ![screen32](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen32.png)
 ###### Method-3:
+```
 The 'stat' command allow us to check file types or file system status.
+```
 ![screen33](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen33.png)
 #### 15)
 ![screen34](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen34.png)
