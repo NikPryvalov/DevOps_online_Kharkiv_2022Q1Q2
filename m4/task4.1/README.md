@@ -129,3 +129,10 @@ The 'stat' command allow us to check file types or file system status.
 ![screen33](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen33.png)
 #### 15) The first 5 files in the "etc" directory recently accessed:
 ![screen34](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen34.png)
+```
+where:
+-l outputs in a list format
+-h makes output human readable (i.e. file sizes appear in kb, mb, etc.)
+-t sorts output by placing most recently modified file first
+head -6 will show 5 files because ls prints the block size in the first line of output.
+```
