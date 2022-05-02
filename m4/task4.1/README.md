@@ -95,6 +95,9 @@ So, Hard link contains data in the target file, while soft link doesn’t contai
 - Block devices – These devices transfer unit of data storage called a block, USB drives, hard drives, and CD ROMs
 ```
 ![screen30](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen30.png)
+```
+- In the above output, we can see some other types of file types, some of them have B for a block device, C for character device
+```
 #### 14) To Identify File Types in Linux we using next:
 File types and their symbols in Linux:
 ```
