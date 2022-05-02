@@ -89,7 +89,11 @@ So, Hard link contains data in the target file, while soft link doesn’t contai
 ![screen28](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen28.png)
 #### 12) Organized a screen-by-screen print of the contents of the /etc directory, used -- 'ls -la /etc | less'
 ![screen29](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen29.png)
-#### 13) 
+#### 13) Most Common types of devices in Linux:
+```
+- Character devices – These devices transmit the data character by characters, like a mouse or a keyboard.
+- Block devices – These devices transfer unit of data storage called a block, USB drives, hard drives, and CD ROMs
+```
 ![screen30](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.1/screen/screen30.png)
 #### 14) To Identify File Types in Linux we using next:
 File types and their symbols in Linux:
