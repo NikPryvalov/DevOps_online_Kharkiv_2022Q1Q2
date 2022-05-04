@@ -13,4 +13,13 @@ where:
 - /home/ubuntu - home directory;
 - /bin/bash - default shell.
 ```
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```
+- what users exist on the system? 
+* Superuser: root;
+* Ordinary users: Standard users have limited permissions to the operating system;
+* Pseudo user.
+Specify several pseudo-users, howto define them?
+Pseudo user: To facilitate system management, meets the requirements of the owner of the corresponding system process file, Pseudo user cannot log in, UID value 1 - 499
+```
 ![screen2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen2.png)
