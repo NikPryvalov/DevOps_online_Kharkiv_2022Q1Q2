@@ -59,4 +59,10 @@ ubuntu : ubuntu adm dialout cdrom floppy sudo audio dip video plugdev netdev lxd
 Directory /etc/skel/ (skel is derived from the “skeleton”) is used to initiate home directory when a user is first created.
 ```
 ![screen4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen4.png)
-#### 8) 
+#### 8) How to remove a user from the system (including his mailbox)?
+```
+userdel -r user4:
+where 
+-r : Remove Linux user account including home directory and mail spool;
+```
+![screen5](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen5.png)
