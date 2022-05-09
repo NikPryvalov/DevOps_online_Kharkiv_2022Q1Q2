@@ -52,3 +52,6 @@ ubuntu : ubuntu adm dialout cdrom floppy sudo audio dip video plugdev netdev lxd
 ```
 #### 5) What are the commands for adding a user to the system? What are the basic parameters required to create a user?
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen3.png)
+#### 6) How do I change the name (account name) of an existing user?
+![screen4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen4.png)
+#### 7) 
