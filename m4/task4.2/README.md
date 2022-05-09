@@ -70,10 +70,12 @@ where
 ```
 lock users account:
 Use the command “passwd -l username”.
+or
 Use the command “usermod -l username”.
 
 unlock users account:
 Use the command “passwd -u username”.
+or
 Use the command “usermod -U username”.
 ```
 #### 10) How to remove a user's password and provide him with a password-free login for subsequent password change?
