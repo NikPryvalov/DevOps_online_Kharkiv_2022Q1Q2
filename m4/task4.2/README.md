@@ -79,5 +79,13 @@ or
 Use the command “usermod -U username”.
 ```
 #### 10) How to remove a user's password and provide him with a password-free login for subsequent password change?
+```
+sudo passwd -de user1
+where 
+-d, Delete a user's password (make it empty). This is a quick way to disable a password for an account. It will set the named account passwordless.
+-e, Immediately expire an account's password. This in effect can force a user to change their password at the user's next login.
+```
 ![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen6.png)
-
+#### 11) Display the extended format of information about the directory, tell about the information columns displayed on the terminal.
+![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen7.png)
+#### 12) 
