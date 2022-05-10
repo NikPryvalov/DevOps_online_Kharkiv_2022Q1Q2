@@ -87,5 +87,16 @@ where
 ```
 ![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen6.png)
 #### 11) Display the extended format of information about the directory, tell about the information columns displayed on the terminal.
+```
+Example:
+256109 drwxr-xr-x 7 ubuntu ubuntu 4096 May 10 19:57.
+- 256109 - inodex index 
+- drwxr-xr-x - d- directory; rwx - owners (r-read, w-write, x-execute); r-x - group (r-read, - no, x-execute); r-x - r-x -others (r-read, - no, x-execute);
+- 7 - number of links to the file.
+- ubuntu - owner UID (user);
+- ubuntu - owner GID (group)
+- 4096 - size of object;
+- May 10 19:57 - last date creat/modify
+```
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen7.png)
-#### 12) 
+#### 12) What access rights exist and for whom (i. e., describe the main roles)? Briefly describe the acronym for access rights
