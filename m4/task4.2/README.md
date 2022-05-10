@@ -71,7 +71,7 @@ where
 lock users account:
 Use the command “passwd -l username”.
 or
-Use the command “usermod -l username”.
+Use the command “usermod -L username”.
 
 unlock users account:
 Use the command “passwd -u username”.
