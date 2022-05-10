@@ -100,3 +100,23 @@ Example:
 ```
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen7.png)
 #### 12) What access rights exist and for whom (i. e., describe the main roles)? Briefly describe the acronym for access rights
+```
+File permission of the user (owner)
+File permission of the owner’s group
+File permission of other users
+The characters r, w, and x stand for read, write, and execute.
+or
+7 - rwx
+6 - rw
+5 - rx
+4 - r
+0 - nothing
+File type: regular file (–), a directory (d) or a link (i).
+```
+#### 13) What is the sequence of defining the relationship between the file and the user?
+#### 14) What commands are used to change the owner of a file (directory), as well as the mode of access to the file? Give examples, demonstrate on the terminal.
+```
+
+```
+![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen8.png)
+#### 15) 
