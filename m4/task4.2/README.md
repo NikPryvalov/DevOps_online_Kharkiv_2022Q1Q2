@@ -100,19 +100,16 @@ Example:
 ```
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen7.png)
 #### 12) What access rights exist and for whom (i. e., describe the main roles)? Briefly describe the acronym for access rights
-```
-File permission of the user (owner)
-File permission of the owner’s group
-File permission of other users
-The characters r, w, and x stand for read, write, and execute.
-or
-7 - rwx
-6 - rw
-5 - rx
-4 - r
-0 - nothing
-File type: regular file (–), a directory (d) or a link (i).
-```
+> Every file in Unix has the following attributes −
+- Owner permissions − The owner's permissions determine what actions the owner of the file can perform on the file.
+- Group permissions − The group's permissions determine what actions a user, who is a member of the group that a file belongs to, can perform on the file.
+- Other (world) permissions − The permissions for others indicate what action all other users can perform on the file.
+For example:
+-rw-r--r-- - we have three groups of three characters.
+Every sequence we have three characters - r,w,x, where:
+w - write;
+r - read;
+x - execute.
 #### 13) What is the sequence of defining the relationship between the file and the user?
 #### 14) What commands are used to change the owner of a file (directory), as well as the mode of access to the file? Give examples, demonstrate on the terminal.
 ```
@@ -122,6 +119,7 @@ The `chown` command allows to change the user and/or group ownership of a given 
 #### 15) What is an example of octal representation of access rights? Describe the umask command.
 > We can use the `stat` command to view or get octal file permissions for given filename. Example of octal representation of access rights: 
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen9.png)
+So if a file has permissions 644, The owner may read and write a file, while all others may only read the file. A common setting for data files that everybody may read, but only the owner may change.
 
 > A new file's permissions may be restricted in a specific way by applying a permissions "mask" called the umask. The umask command is used to set this mask, or to show you its current value.
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen10.png)
