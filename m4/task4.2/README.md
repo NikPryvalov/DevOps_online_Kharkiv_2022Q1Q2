@@ -119,8 +119,12 @@ The `chown` command allows to change the user and/or group ownership of a given 
 #### 15) What is an example of octal representation of access rights? Describe the umask command.
 > We can use the `stat` command to view or get octal file permissions for given filename. Example of octal representation of access rights: 
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen9.png)
-So if a file has permissions 644, The owner may read and write a file, while all others may only read the file. A common setting for data files that everybody may read, but only the owner may change.
-
+> So if a file has permissions 644, The owner may read and write a file, while all others may only read the file. A common setting for data files that everybody may read, but only the owner may change.
+- 7 - rwx
+- 6 - rw
+- 5 - rx
+- 4 - r
+- 0 - nothing
 > A new file's permissions may be restricted in a specific way by applying a permissions "mask" called the umask. The umask command is used to set this mask, or to show you its current value.
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen10.png)
 #### 16) 
