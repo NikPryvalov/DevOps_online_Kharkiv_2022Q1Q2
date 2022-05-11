@@ -127,9 +127,9 @@ The `chown` command allows to change the user and/or group ownership of a given 
 - 0 - nothing
 
 ```
-  A new file's permissions may be restricted in a specific way by applying a permissions "mask" called the umask. The umask command is used to set this mask, or to show you its current value.
-  Command umask -S, where option `S` - to display the mask value in symbolic notation. 
-  Example:
+A new file's permissions may be restricted in a specific way by applying a permissions "mask" called the umask. The umask command is used to set this mask, or to show you its current value.
+Command umask -S, where option `S` - to display the mask value in symbolic notation. 
+Example:
 ubuntu@ip-172-31-24-52:~$ umask
 0002
 
