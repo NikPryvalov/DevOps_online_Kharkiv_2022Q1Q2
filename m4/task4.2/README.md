@@ -142,4 +142,5 @@ A Sticky bit is a permission bit that is set on a file or a directory that lets 
 ```
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen10.png)
 #### 17) What file attributes should be present in the command script?
+> The command scripts must be present "x" attribute - a right to the execute.
 
