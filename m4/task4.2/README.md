@@ -116,9 +116,13 @@ File type: regular file (–), a directory (d) or a link (i).
 #### 13) What is the sequence of defining the relationship between the file and the user?
 #### 14) What commands are used to change the owner of a file (directory), as well as the mode of access to the file? Give examples, demonstrate on the terminal.
 ```
-The `chown` command allows to change the user and/or group ownership of a given file, directory, or symbolic link.
+The `chown` command allows to change the user and/or group ownership of a given file, directory.
 ```
 ![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen8.png)
-#### 15) What is an example of octal representation of access rights? Describe theumask command.
+#### 15) What is an example of octal representation of access rights? Describe the umask command.
+> Example of octal representation of access rights: 
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen9.png)
+
+> A new file's permissions may be restricted in a specific way by applying a permissions "mask" called the umask. The umask command is used to set this mask, or to show you its current value.
+![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen10.png)
 #### 16) 
