@@ -104,7 +104,7 @@ Example:
 - Owner permissions − The owner's permissions determine what actions the owner of the file can perform on the file.
 - Group permissions − The group's permissions determine what actions a user, who is a member of the group that a file belongs to, can perform on the file.
 - Other (world) permissions − The permissions for others indicate what action all other users can perform on the file.
-For example:
+> For example:
 -rw-r--r-- - we have three groups of three characters.
 Every sequence we have three characters - r,w,x, where:
 w - write;
