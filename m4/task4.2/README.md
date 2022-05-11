@@ -137,4 +137,7 @@ ubuntu@ip-172-31-24-52:~$ umask -S
 u=rwx,g=rwx,o=rx
 ```
 #### 16) Give definitions of sticky bits and mechanism of identifier substitution. Givean example of files and directories with these attributes.
+'''
+A Sticky bit is a permission bit that is set on a file or a directory that lets only the owner of the file/directory or the root user to delete or rename the file. No other user is given privileges to delete the file created by some other user.
+'''
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen10.png)
