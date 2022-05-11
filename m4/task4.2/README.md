@@ -125,6 +125,16 @@ The `chown` command allows to change the user and/or group ownership of a given 
 - 5 - rx
 - 4 - r
 - 0 - nothing
-> A new file's permissions may be restricted in a specific way by applying a permissions "mask" called the umask. The umask command is used to set this mask, or to show you its current value.
+
+```
+  A new file's permissions may be restricted in a specific way by applying a permissions "mask" called the umask. The umask command is used to set this mask, or to show you its current value.
+  Command umask -S, where option `S` - to display the mask value in symbolic notation. 
+  Example:
+ubuntu@ip-172-31-24-52:~$ umask
+0002
+
+ubuntu@ip-172-31-24-52:~$ umask -S
+u=rwx,g=rwx,o=rx
+```
+#### 16) Give definitions of sticky bits and mechanism of identifier substitution. Givean example of files and directories with these attributes.
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.2/screen/screen10.png)
-#### 16) 
