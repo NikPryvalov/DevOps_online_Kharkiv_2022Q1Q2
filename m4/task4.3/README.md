@@ -25,6 +25,7 @@ The pstree command shows running processes as a tree.
 ![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen6.png)
 #### 6) How to define kernel processes and user processes?
 ```
+To display a tree of processes with PIDs, use: pstree -p 2
 
 ```
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen7.png)
