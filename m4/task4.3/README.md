@@ -38,8 +38,25 @@ ps -aux, where:
 -a: Shows information about all users
 -x: Shows information about processes without terminals
 -u: Shows additional information like -f option
+So, we will see a column called STAT that displays the process’s status.
+Here is a list of the various process statuses and what they mean:
+
+D – Uninterruptible sleep (usually a critical system process, a process that cannot be killed without rebooting)
+R – Running or runable (on run queue)
+S – Interruptible sleep (waiting for an event to complete)
+T – Stopped, either by a job control signal or because it is being traced.
+Z – Defunct (“zombie”) process, terminated but not closed by the parent process that created it
+
+Additional characters may be seen if in a BSD environment or when using the “stat” modifier with ps:
+
+W – has no resident pages
+< – high-priority process
+N – low-priority task
+L – has pages locked into memory (for real-time and custom IO)
 ```
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen9.png)
 #### 8) Display only the processes of a specific user.
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen10.png)
-#### 9)
+#### 9) What utilities can be used to analyze existing running tasks (by analyzing the help for the pscommand)?
+![screen11](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen11.png)
+#### 10) 
