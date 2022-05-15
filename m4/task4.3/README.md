@@ -81,5 +81,5 @@ TIME+: Total CPU time used by the task in hundredths of a second.
 COMMAND: The command name or command line (name + options).
 ```
 #### 11) Display the processes of the specific user using the top command.
-![screen11](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen11.png)
+![screen12](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen12.png)
 #### 12) What interactive commands can be used to control the top command? Give a couple ofexamples.
