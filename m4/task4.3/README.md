@@ -25,7 +25,12 @@ The pstree command shows running processes as a tree.
 ![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen6.png)
 #### 6) How to define kernel processes and user processes?
 ```
-To display a tree of processes with PIDs, use: pstree -p 2
-
+For this task, we use the following command:
+- ps -N --ppid 2 -p 2  - to display only user processes;
+- ps --ppid 2 -p 2 - to display only kernel processes;
 ```
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen7.png)
+![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen8.png)
+#### 7) Print the list of processes to the terminal. Briefly describe the statuses of the processes.What condition are they in, or can they be arriving in?
+![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen9.png)
+#### 8)
