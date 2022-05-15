@@ -32,5 +32,14 @@ For this task, we use the following command:
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen7.png)
 ![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen8.png)
 #### 7) Print the list of processes to the terminal. Briefly describe the statuses of the processes.What condition are they in, or can they be arriving in?
+```
+For this task, we use the following command:
+ps -aux, where:
+-a: Shows information about all users
+-x: Shows information about processes without terminals
+-u: Shows additional information like -f option
+```
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen9.png)
-#### 8)
+#### 8) Display only the processes of a specific user.
+![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen10.png)
+#### 9)
