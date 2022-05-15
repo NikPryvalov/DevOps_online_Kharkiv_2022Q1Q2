@@ -83,7 +83,7 @@ COMMAND: The command name or command line (name + options).
 #### 11) Display the processes of the specific user using the top command.
 > used command: top -u ubuntu
 ![screen12](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen12.png)
-#### 12) What interactive commands can be used to control the top command? Give a couple ofexamples.
+#### 12) What interactive commands can be used to control the top command? Give a couple of examples.
 ```
 The 'TOP' utilite have a many keys for interactive commands, we briefly describe some one:
 n - set max number of tasks displayed
