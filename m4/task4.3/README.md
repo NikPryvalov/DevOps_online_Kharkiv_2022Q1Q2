@@ -46,6 +46,8 @@ R – Running or runable (on run queue)
 S – Interruptible sleep (waiting for an event to complete)
 T – Stopped, either by a job control signal or because it is being traced.
 Z – Defunct (“zombie”) process, terminated but not closed by the parent process that created it
+W – Ppaging (not valid since the 2.6.xx kernel)
+X – Dead (should never be seen)
 
 Additional characters may be seen if in a BSD environment or when using the “stat” modifier with ps:
 
@@ -53,6 +55,8 @@ W – has no resident pages
 < – high-priority process
 N – low-priority task
 L – has pages locked into memory (for real-time and custom IO)
++ – is in the foreground process group
+l – is multi-threaded (using Clone_thread, like NPTL pthreads do)
 ```
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen9.png)
 #### 8) Display only the processes of a specific user.
