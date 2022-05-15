@@ -94,5 +94,7 @@ u - filter by user
 h - help
 ```
 #### 13) Sort the contents of the processes window using various parameters (for example, theamount of processor time taken up, etc.)
+> So, when we stert 'top' command we can press 'f' to enter the interactive menu and we can interactively choose which column to sort on:
 ![screen13](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen13.png)
+![screen14](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen14.png)
 #### 14) Concept of priority, what commands are used to set priority?
