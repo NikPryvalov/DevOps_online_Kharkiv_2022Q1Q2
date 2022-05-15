@@ -63,5 +63,23 @@ l – is multi-threaded (using Clone_thread, like NPTL pthreads do)
 > Used command: ps -u [username]
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen10.png)
 #### 9) What utilities can be used to analyze existing running tasks (by analyzing the help for the pscommand)?
+![screen11](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen11.jpg)
+#### 10) What information does top command display?
+```
+The top command (table of processes) displays the processor activity of your Linux box and also displays tasks managed by the kernel in real-time.
+PID: Process ID.
+USER: The owner of the process.
+PR: Process priority.
+NI: The nice value of the process.
+VIRT: Amount of virtual memory used by the process.
+RES: Amount of resident memory used by the process.
+SHR: Amount of shared memory used by the process.
+S: Status of the process. (See the list below for the values this field can take).
+%CPU: The share of CPU time used by the process since the last update.
+%MEM: The share of physical memory used.
+TIME+: Total CPU time used by the task in hundredths of a second.
+COMMAND: The command name or command line (name + options).
+```
+#### 11) Display the processes of the specific user using the top command.
 ![screen11](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen11.png)
-#### 10) 
+#### 12) What interactive commands can be used to control the top command? Give a couple ofexamples.
