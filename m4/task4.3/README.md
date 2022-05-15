@@ -81,5 +81,18 @@ TIME+: Total CPU time used by the task in hundredths of a second.
 COMMAND: The command name or command line (name + options).
 ```
 #### 11) Display the processes of the specific user using the top command.
+> used command: top -u ubuntu
 ![screen12](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen12.png)
 #### 12) What interactive commands can be used to control the top command? Give a couple ofexamples.
+```
+The 'TOP' utilite have a many keys for interactive commands, we briefly describe some one:
+n - set max number of tasks displayed
+w - write current  settings to the config file
+ESC - update
+k - kill process
+u - filter by user
+h - help
+```
+#### 13) Sort the contents of the processes window using various parameters (for example, theamount of processor time taken up, etc.)
+![screen13](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen13.png)
+#### 14) Concept of priority, what commands are used to set priority?
