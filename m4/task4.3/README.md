@@ -60,6 +60,7 @@ l – is multi-threaded (using Clone_thread, like NPTL pthreads do)
 ```
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen9.jpg)
 #### 8) Display only the processes of a specific user.
+> Use command: ps -u [username]
 ![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen10.png)
 #### 9) What utilities can be used to analyze existing running tasks (by analyzing the help for the pscommand)?
 ![screen11](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen11.png)
