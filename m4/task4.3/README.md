@@ -125,6 +125,10 @@ SIGTSTP - Stop (suspend) the process.
 ```
 ![screen24](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen24.png)
 #### 17) Commands jobs, fg, bg, nohup. What are they for? Use the sleep, yes command todemonstrate the process control mechanism with fg, bg.
+- jobs: Display a list of the jobs with their status
+- fg: Move a background job into the foreground
+- bg: Resume suspended jobs by running them as background jobs
+- nohup: let to save started process after closing terminal session.
 ![screen26](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen26.png)
 
 ## Part2
