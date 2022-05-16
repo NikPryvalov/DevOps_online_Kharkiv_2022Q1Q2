@@ -99,8 +99,8 @@ h - help
 ![screen14](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen14.png)
 #### 14) Concept of priority, what commands are used to set priority?
 > We can change the process priority using nice and renice utility. Nice command will launch a process with an user defined scheduling priority. Renice command will modify the scheduling priority of a running process. A nice value of -20 represents highest priority, and a nice value of 19 represent least priority for a process, for decrease the priority we can use a regular user, but for increase - we must have a superuser rights.
-> Example: nice -n 19 top
-> Example:
+- Example: nice -n 19 top
+- Example:
 ![screen15](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen15.png)
 #### 15) Can I change the priority of a process using the top command?If so, how?
 
