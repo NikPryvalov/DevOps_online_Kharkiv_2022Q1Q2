@@ -107,10 +107,11 @@ h - help
 ![screen18](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen18.png)
 #### 15) Can I change the priority of a process using the top command?If so, how?
 > If we wiil use 'top' command with key 'r' we can make changes the priority of a process. When 'top' command start press f and enter PID.
-- Exampl: 
+- Example: 
 ![screen19](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen19.png)
 ![screen20](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen20.png)
 ![screen21](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen21.png)
 #### 16) Examine the kill command. How to send with the kill commandprocess control signal? Give an example of commonly used signals.
 ![screen22](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen22.png)
-#### 17) 
+#### 17) Commands jobs, fg, bg, nohup. What are they for? Use the sleep, yes command todemonstrate the process control mechanism with fg, bg.
+![screen23](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen23.png)
