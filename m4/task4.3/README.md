@@ -115,6 +115,14 @@ h - help
 ![screen22](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen22.png)
 - kill -l :To display all the available signals we can use below command option:
 ![screen23](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen23.png)
+- Example:
+```
+SIGINT - Interrupt (request termination) of the process.
+SIGKILL - Force termination of the process 
+SIGTERM - Request Termination of the process.
+SIGCONT - continue process.
+SIGTSTP - Stop (suspend) the process.
+```
 ![screen24](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen24.png)
 ![screen25](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen25.png)
 #### 17) Commands jobs, fg, bg, nohup. What are they for? Use the sleep, yes command todemonstrate the process control mechanism with fg, bg.
