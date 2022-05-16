@@ -126,3 +126,7 @@ SIGTSTP - Stop (suspend) the process.
 ![screen24](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen24.png)
 #### 17) Commands jobs, fg, bg, nohup. What are they for? Use the sleep, yes command todemonstrate the process control mechanism with fg, bg.
 ![screen26](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen26.png)
+
+## Part2
+#### 1) Check the implementability of the most frequently used OPENSSH commands in the MSWindows operating system. (Description of the expected result of the commands +screenshots: command –result should be presented)
+![screen27](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen27.png)
