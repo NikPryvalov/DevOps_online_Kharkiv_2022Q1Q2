@@ -106,7 +106,7 @@ h - help
 ![screen17](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen17.png)
 ![screen18](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen18.png)
 #### 15) Can I change the priority of a process using the top command?If so, how?
-> If we wiil use 'top' command with key 'r' we can make changes the priority of a process. When 'top' command start press f and enter PID.
+> If we wiil use 'top' command with key 'r' we can make changes the priority of a process. When 'top' command start press f and enter PID after that enter new value of priority.
 - Example: 
 ![screen19](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen19.png)
 ![screen20](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen20.png)
