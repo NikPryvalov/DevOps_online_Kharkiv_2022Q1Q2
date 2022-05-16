@@ -113,6 +113,7 @@ h - help
 ![screen21](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen21.png)
 #### 16) Examine the kill command. How to send with the kill commandprocess control signal? Give an example of commonly used signals.
 ![screen22](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen22.png)
+> kill -l :To display all the available signals we can use below command option:
 ![screen23](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen23.png)
 ![screen24](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen24.png)
 ![screen25](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen25.png)
