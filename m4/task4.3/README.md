@@ -136,6 +136,11 @@ SIGTSTP - Stop (suspend) the process.
 ![screen27](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen27.png)
 ![screen28](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen28.png)
 ![screen29](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen29.png)
+```
+Using SCP
+SCP uses the same security mechanism as SSH, but rather than running commands, it is most commonly used to securely copy files from one system to another:
+scp source user@host:/location
+```
 ![screen30](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen30.png)
 #### 2)  Implement basic SSH settings to increase the security of the client-server connection (at least)
 ![screen31](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen31.png)
