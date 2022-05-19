@@ -134,3 +134,8 @@ SIGTSTP - Stop (suspend) the process.
 ## Part2
 #### 1) Check the implementability of the most frequently used OPENSSH commands in the MSWindows operating system. (Description of the expected result of the commands +screenshots: command –result should be presented)
 ![screen27](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen27.png)
+![screen28](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen28.png)
+![screen29](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen29.png)
+![screen30](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen30.png)
+#### 2)  Implement basic SSH settings to increase the security of the client-server connection (at least)
+![screen31](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen31.png)
