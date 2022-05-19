@@ -145,6 +145,13 @@ scp source user@host:/location
 #### 2)  Implement basic SSH settings to increase the security of the client-server connection (at least)
 ![screen31](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen31.png)
 #### 3) List the options for choosing keys for encryption in SSH. Implement 3 of them.
+```
+Choosing an Algorithm and Key Size
+ssh-keygen -t rsa -b 4096
+ssh-keygen -t dsa 
+ssh-keygen -t ecdsa -b 521
+ssh-keygen -t ed25519
+```
 ![screen32](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen32.png)
 #### 4) Implement port forwarding for the SSH client from the host machine to the guest Linuxvirtual machine behind NAT.
 ![screen33](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen33.png)
