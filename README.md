@@ -15,7 +15,7 @@
  - [task4.2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m4/task4.2)/
  - [task4.3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m4/task4.3)/
 ### [m5-Linux Networking](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m5)/
-- [task5](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m5/task5)/
+- [task5.1](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m5/task5.1)/
 ### [m6-Linux administration with bash](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m6)/
 - [task6.1](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m6/task6.1)/
 ### [m7-Database Administration](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m7)/
