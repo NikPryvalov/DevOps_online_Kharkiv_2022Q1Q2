@@ -157,4 +157,8 @@ ssh-keygen -t ed25519
 ![screen33](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen33.png)
 ![screen34](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen34.png)
 #### 5*) Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on theserver using ssh, telnet, rlogin. Analyze the result.
+```
+sudo tcpdump -i any -nn port 22 -w p22.pcap
+sudo tcpdump -i any -nn port 23 -w p23.pcap
+```
 ![screen35](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m4/task4.3/screen/screen35.png)
