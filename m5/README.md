@@ -7,4 +7,11 @@
 ![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m5/screen/screen6.png)
 ![screen7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m5/screen/screen7.png)
 ![screen8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m5/screen/screen8.png)
+```
+summarizing:
+- ip: 172.17.0.0/18;
+- nenmask: 255.255.192.0;
+```
 ![screen9](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m5/screen/screen9.png)
+![screen10](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m5/screen/screen10.png)
+![screen11](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m5/screen/screen11.png)
