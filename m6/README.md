@@ -20,6 +20,7 @@ Using Apache log example create a script to answer the following questions:
 6. What search bots have accessed the site? (UA + IP)
 ```
 ![screen2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m6/screen/screen2.png)
+![screen2.2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m6/screen/screen2.2.png)
 #### Part C
 ```
 Create a data backup script that takes the following data as parameters:
