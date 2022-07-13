@@ -22,5 +22,5 @@
 - [task7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m7/README.md)/
 ### [m8-Python Intro](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m8)/
 - [task8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/m8/README.md)/
-## [Final project](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/final_project/)/
-- [final_project](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/final_project/README.md)/
+## [Final project](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/tree/main/Final project/)/
+
