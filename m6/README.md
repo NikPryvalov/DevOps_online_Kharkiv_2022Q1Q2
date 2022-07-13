@@ -31,3 +31,4 @@ indicating the time, type of operation and file name. [The command to run the sc
 crontab with a run frequency of one minute]
 ```
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m6/screen/screen3.png)
+![screen3.1](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m6/screen/screen3.1.png)
