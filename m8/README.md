@@ -6,8 +6,8 @@
 #### Write python program, which will askfile name. File should be read, and only even lines should be shown.
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m8/screen/screen3.png)
 #### Write python program, which should read htmldocument, parse it, and showit’s title.
-![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m8/screen/screen4.png)
+![screen4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m8/screen/screen4.png)
 #### Write pythonprogram, which will parse user’s text, and replace some emotions with emoji’s (Look: pip install emoji).
-![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m8/screen/screen5.png)
+![screen5](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m8/screen/screen5.png)
 #### Write program, that will show basic PC information (OS, RAM amount, HDD’s, andetc.)
-![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m8/screen/screen6.png)
+![screen6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m8/screen/screen6.png)
