@@ -21,6 +21,8 @@ Make a selection from the main table DB MySQL.
 ```
 ![screen1.11](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen1.11.png)
 #### Part B
-![screen2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.png)
+![screen2.1](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.1.png)
+![screen2.2](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.2.png)
+![screen2.3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.3.png)
 #### Part C
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen3.png)
