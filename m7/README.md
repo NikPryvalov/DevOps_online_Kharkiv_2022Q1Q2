@@ -7,7 +7,7 @@
 ![screen1.5](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen1.5.png)
 ![screen1.6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen1.6.png)
 ```
-Examples SQL queries DDL:
+Examples SQL queries DDL, DQL, DML, DCL:
 ```
 ![screen1.7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen1.7.png)
 ![screen1.8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen1.8.png)
