@@ -11,9 +11,7 @@ Examples SQL queries DDL, DQL, DML, DCL:
 ```
 ![screen1.7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen1.7.png)
 ```
-Create a database of new users with different privileges. Connect to the 
-database as a new user and verify that the privileges allow or deny certain 
-actions.
+Create a database of new users with different privileges. Connect to the database as a new user and verify that the privileges allow or deny certain actions.
 ```
 ![screen1.8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen1.8.png)
 ![screen1.9.](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen1.9.png)
