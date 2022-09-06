@@ -26,5 +26,8 @@ Make a selection from the main table DB MySQL.
 ![screen2.3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.3.png)
 ![screen2.4](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.4.png)
 ![screen2.5](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.5.png)
+![screen2.6](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.6.png)
+![screen2.7](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.7.png)
+![screen2.8](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen2.8.png)
 #### Part C
 ![screen3](https://github.com/NikPryvalov/DevOps_online_Kharkiv_2022Q1Q2/blob/main/m7/screen/screen3.png)
